@@ -1,2 +1,3 @@
-# projectX
-niceproject
+<?php
+echo "Hellow world!"
+?>
